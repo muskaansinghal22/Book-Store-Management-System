@@ -1,0 +1,1 @@
+It is a user-friendly project that helps manage a book by storing information about the availability, issue status, issue history and shelf number of the book entered by the user in a well organized database. Tech: C, MySQL, File Handling
